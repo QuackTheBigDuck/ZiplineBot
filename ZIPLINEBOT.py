@@ -29,13 +29,13 @@ import base64
 import traceback
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TensorFlow logging
-CLIENT_ID = "0e5293db3635d85"
+CLIENT_ID = "IMGUR CLIENT ID"
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # Discord webhook URL
-discordwebhookurl = "https://discord.com/api/webhooks/1265759281446391879/PQxp_4kqeeyCkmBcjUTZ1iPxC7b4bTX4HJ2-XoF2YcIcKKvw_IwW4YT41pa_Q98_iO3y"
+discordwebhookurl = "DISCORD URL"
 
 class MLModel:
     def __init__(self):
