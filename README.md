@@ -113,7 +113,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 💬 Support
 
-For questions or issues, please [open an issue](https://github.com/yourusername/zipline-trading-bot/issues).
+For questions or issues, please [open an issue]([https://github.com/yourusername/zipline-trading-bot/issues](https://github.com/QuackTheBigDuck/ZiplineBot/issues/new)).
 
 ---
 
