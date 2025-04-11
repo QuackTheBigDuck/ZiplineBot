@@ -28,8 +28,8 @@ An advanced algorithmic trading system combining **machine learning** and **rein
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zipline-trading-bot.git
-   cd zipline-trading-bot
+   git clone https://github.com/QuackTheBigDuck/ZiplineBot
+   cd ZipLineBot
    ```
 
 2. Install dependencies:
