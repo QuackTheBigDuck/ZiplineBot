@@ -35,7 +35,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Discord webhook URL
-discordwebhookurl = "https://discord.com/api/webhooks/1265759281446391879/PQxp_4kqeeyCkmBcjUTZ1iPxC7b4bTX4HJ2-XoF2YcIcKKvw_IwW4YT41pa_Q98_iO3y"
+discordwebhookurl = "Your Webhook Url"
 
 class MLModel:
     def __init__(self):
