@@ -56,4 +56,4 @@ This version is no longer maintained, but remains as a portfolio project showcas
 
 ---
 
-© 2025 – Original Author: [QuackTheDuck]
+© 2025 – Original Author: [QuackTheDuck](https://github.com/QuackTheBigDuck)
