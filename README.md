@@ -41,7 +41,7 @@ ZiplineBot.py
 - Max Drawdown: ~12%
 - Cumulative Return: +27% (3-month simulated test)
 
-> ⚠️ Note: This is a **sanitized academic version** of a real bot I deployed at 16, later sold privately. Live trading logic, API keys, and trading signals have been removed for security reasons.
+> ⚠️ **Note**: This is a **public academic version** of a proprietary bot that was sold privately. Live trading logic, sensitive models, and signal infrastructure have been removed or redacted to protect IP.
 
 ## 📚 Lessons Learned
 
@@ -52,7 +52,8 @@ ZiplineBot.py
 
 ## 🏁 Status
 
-This version is no longer maintained, but remains as a portfolio project showcasing full-stack trading automation and financial ML design.
+📦 **Archived**  
+This repo remains as a portfolio demonstration. The original live-trading system was monetized and is no longer public.
 
 ---
 
